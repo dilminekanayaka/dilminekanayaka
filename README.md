@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)]
+![MasterHead](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
 <h1 align="center">Hi 👋, I'm Dilmin Ekanayaka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilminekanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="dilminekanayaka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilminekanayaka" alt="dilminekanayaka" /></a> </p>
