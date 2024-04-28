@@ -18,6 +18,8 @@
 
  📫 How to reach me **pasindusupun461@gmail.com**
 
+ [![MasterHead](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dilmin-ekanayaka-24a04620b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dilmin-ekanayaka-24a04620b/" height="30" width="40" /></a>
@@ -34,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilminekanayaka&" alt="dilminekanayaka" /></p>
 
-[![MasterHead](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)]
+
