@@ -65,12 +65,11 @@ src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/Discord-Logo%20(1)
 
  ![MasterHead](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilminekanayaka&show_icons=true&locale=en&layout=compact" alt="dilminekanayaka" /></p>
-
+<div align="center">
+<h2 align="centre">Visitor Count</h2>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dilminekanayaka}/count.svg" /></p> 
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilminekanayaka&show_icons=true&locale=en" alt="dilminekanayaka" /></p>
-
+</div>
+</p>
+<hr>
 <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilminekanayaka&" alt="dilminekanayaka" /></p>
