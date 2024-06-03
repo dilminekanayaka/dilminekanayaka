@@ -31,12 +31,12 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32px"/> </a> 
 
 <a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="32px"/> </a> 
  
@@ -50,9 +50,9 @@
  
 
 <a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=dribbble&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dribbble.svg'> </a>
-<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=illustrator&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
-<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
-<a href= https://github.com/avinIndrasoma?tab=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
+<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=illustrator&sort= > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
+<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
+<a href= https://github.com/avinIndrasoma?tab=repositories&q=&type=&language=discord&sort= > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -63,13 +63,9 @@
 <a href = '#'> <img width = '32px' align= 'center'
 src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/Discord-Logo%20(1).png"/></a>
 
-<h2> My Holopin Board </h2>
-
-[![@dilminekanayaka's Holopin board](https://holopin.io/api/user/board?user=dilminekanayaka)](https://holopin.io/@dilminekanayaka)
-
  ![MasterHead](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilminekanayaka&show_icons=true&locale=en&layout=compact" alt="dilminekanayaka" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilminekanayaka&show_icons=true&locale=en&layout=compact" alt="dilminekanayaka" /></p>
 
 <br>
 
