@@ -49,10 +49,10 @@
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="32px" /> </a> 
  
 
-<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=dribbble&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dribbble.svg'> </a>
-<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=illustrator&sort= > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
-<a href= https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
-<a href= https://github.com/avinIndrasoma?tab=repositories&q=&type=&language=discord&sort= > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
+<a href= "https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=dribbble&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dribbble.svg'> </a>
+<a href= "https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=illustrator&sort= "> <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
+<a href= "https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=photoshop&sort=" > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
+<a href= "https://github.com/avinIndrasoma?tab=repositories&q=&type=&language=discord&sort=" > <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
