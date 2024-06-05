@@ -50,21 +50,19 @@
 <a href="https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=dribbble&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dribbble.svg"> </a>
 <a href="https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=illustrator&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg"> </a>
 <a href="https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=photoshop&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg"> </a>
-<a href="https://github.com/avinIndrasoma?tab=repositories&q=&type=&language=discord&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"> </a>
+<a href="https://github.com/dilminekanayaka?tab=repositories&q=&type=&language=discord&sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"> </a>
 </p>
 
 <!--Connect With me -->
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 
-<!--GitHub-->
+<!--Connect With me List -->
+<p>
 <a href="https://www.github.com/dilminekanayaka"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
-
-<!--Behance-->
 <a href="https://www.behance.net/https://www.behance.net/dilminekanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/dilminekanayake" width="32px"></a>
-
-<!--Discord-->
 <a href="#"> <img width="32px" align="center" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/Discord-Logo%20(1).png"></a>
+</p>
 
 <!--Footer GIF-->
 
