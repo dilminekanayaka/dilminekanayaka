@@ -64,7 +64,6 @@
 <a href="#"> <img width="32px" align="center" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/Discord-Logo%20(1).png"></a>
 </p>
 <br>
-<br>
 <!--Footer GIF-->
 
  ![MasterHead](https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif)
