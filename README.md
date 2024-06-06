@@ -65,8 +65,6 @@
 <a href="https://www.github.com/dilminekanayaka"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
   <!--Behance Logo-->
 <a href="https://www.behance.net/dilminekanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/dilminekanayake" width="32px"></a>
-  <!--Holopin Logo-->
- <a href="https://holopin.io/@dilminekanayaka" target="blank"><img align="center" src="https://holopin.io/img/holopin-logo.svg" alt="holopin" width="32px"></a>
  <!--Discord Logo-->
 <a href="#"> <img width="32px" align="center" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/Discord-Logo%20(1).png"></a>
 </p>
